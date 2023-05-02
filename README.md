@@ -6,7 +6,8 @@
 
 ## 👨 Social
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-c-rojas/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-c-rojas/?_target=blank)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/0lucs0?_target=blank)
 
 ## 🚀 Skills
 
@@ -18,12 +19,17 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![VTEX](https://img.shields.io/badge/VTEX-FF3366?style=for-the-badge&logo=VTEX&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=black)
 
 ## 🛠️ Tools
 
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![PNPM](https://img.shields.io/badge/PNPM-FF0000?style=for-the-badge&logo=pnpm&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![GitKraken](https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🧐 Linters
 
@@ -34,6 +40,7 @@
 
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=Windows%20Terminal&logoColor=white)
 
 ## 🌐 Web Browsers
 
@@ -48,14 +55,14 @@
 
 ## 📊 GitHub Stats
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=0lucs0&theme=react&currStreakNum=FFFFFF&sideNums=FFFFFF&ring=36BCF7FF&background=0D1117&text_color=FFFFFF&icon_color=36BCF7FF&border=61dafb&hide_border=false)
-![Most Used Languages](https://github-readme-stats-mu-jet.vercel.app/api/top-langs/?username=0lucs0&title_color=36BCF7FF&text_color=FFFFFF&icon_color=61dafb&bg_color=0D1117&langs_count=10&layout=compact&border_color=61dafb&hide_border=false)
-![Stats](https://github-readme-stats-mu-jet.vercel.app/api?username=0lucs0&show_icons=true&theme=react&title_color=36BCF7FF&currStreakLabel=36BCF7FF&sideLabels=36BCF7FF&icon_color=36BCF7FF&bg_color=0D1117&text_color=FFFFFF&border_color=61dafb&hide_border=false&count_private=true)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=0lucs0&theme=react&currStreakNum=FFFFFF&sideNums=FFFFFF&ring=36BCF7FF&background=0D1117&text_color=FFFFFF&icon_color=36BCF7FF&border=61dafb&hide_border=false&stroke=36BCF7FF&currStreakLabel=36BCF7FF&sideLabels=36BCF7FF&dates=FFFFFF&fire=36BCF7FF&border_radius=0px&hide_rank=false)
+![Stats](https://github-readme-stats-mu-jet.vercel.app/api?username=0lucs0&show_icons=true&theme=react&title_color=36BCF7FF&currStreakLabel=36BCF7FF&sideLabels=36BCF7FF&icon_color=36BCF7FF&bg_color=0D1117&text_color=FFFFFF&border_color=61dafb&hide_border=false&count_private=true&include_all_commits=true)
+![Most Used Languages](https://github-readme-stats-mu-jet.vercel.app/api/top-langs/?username=0lucs0&title_color=36BCF7FF&text_color=FFFFFF&icon_color=61dafb&bg_color=0D1117&langs_count=10&layout=compact&border_color=61dafb&hide_border=false&hide_title=false&card_width=445&exclude_repo=0lucs0.github.io&count_private=true&include_all_commits=true)
 
 ## 📈 GitHub Activity Graph
 
-![Contribution](https://github-readme-activity-graph.cyclic.app/graph?username=0lucs0&theme=react&text_color=FFFFFF&bg_color=0D1117&title_color=36BCF7FF&line=36BCF7FF&border_color=61dafb&hide_border=true)
+![Contribution](https://github-readme-activity-graph.cyclic.app/graph?username=0lucs0&theme=react&text_color=FFFFFF&bg_color=0D1117&title_color=36BCF7FF&line=36BCF7FF&border_color=61dafb&hide_border=false&area=true&count_private=true&include_all_commits=true)
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=0lucs0&theme=algolia&no-bg=true&no-frame=true)
+![Trophies](https://github-profile-trophy.vercel.app/?username=0lucs0&theme=algolia&no-bg=true&no-frame=true&column=7&margin-w=15&margin-h=15&row=1&no-frame=true&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
