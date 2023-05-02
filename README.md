@@ -49,8 +49,8 @@
 ## 📊 GitHub Stats
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=0lucs0&theme=react&currStreakNum=FFFFFF&sideNums=FFFFFF&ring=36BCF7FF&background=0D1117&text_color=FFFFFF&icon_color=36BCF7FF&border=61dafb&hide_border=false)
-![Stats](https://github-readme-stats-mu-jet.vercel.app/api?username=0lucs0&show_icons=true&theme=react&title_color=36BCF7FF&currStreakLabel=36BCF7FF&sideLabels=36BCF7FF&icon_color=36BCF7FF&bg_color=0D1117&text_color=FFFFFF&border_color=61dafb&hide_border=false&count_private=true)
 ![Most Used Languages](https://github-readme-stats-mu-jet.vercel.app/api/top-langs/?username=0lucs0&title_color=36BCF7FF&text_color=FFFFFF&icon_color=61dafb&bg_color=0D1117&langs_count=10&layout=compact&border_color=61dafb&hide_border=false)
+![Stats](https://github-readme-stats-mu-jet.vercel.app/api?username=0lucs0&show_icons=true&theme=react&title_color=36BCF7FF&currStreakLabel=36BCF7FF&sideLabels=36BCF7FF&icon_color=36BCF7FF&bg_color=0D1117&text_color=FFFFFF&border_color=61dafb&hide_border=false&count_private=true)
 
 ## 📈 GitHub Activity Graph
 
