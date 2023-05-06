@@ -1,10 +1,10 @@
-# Hi there, I'm [Luis Carlos (aka 0lucs0)](https://github.com/0lucs0) 👋
+# Hi there, I'm [Luis Carlos (aka bledxs)](https://github.com/bledxs) 👋
 
 -   👨‍💻 I’m currently working as a Frontend Developer MID.
 -   🌱 I’m currently learning English
 -   🤦‍♂. ⚡ Bla bla bla...
 
-## 👨 Social
+## 😎 Social
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-c-rojas?_target=_blank)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luisc.rojas?_target=_blank)
