@@ -65,7 +65,7 @@ learning English<br>⚡ Bla bla bla...
 
 ## 📈 GitHub Activity Graph
 
-![Contribution](https://github-readme-activity-graph.cyclic.app/graph?username=bledxs&theme=react-dark&bg_color=0d1117&color=36bcf7&line=36bcf7&point=FFFFFF&hide_border=true)
+[![Bledxs' github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bledxs&theme=react&background=0D1117&stroke=36BCF7FF&border=61dafb&hide_border=false)](https://github.com/bledxs/github-readme-activity-graph)
 
 ## 🏆 GitHub Trophies
 
