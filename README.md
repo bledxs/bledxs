@@ -98,7 +98,7 @@ I'm a Software Architect from Colombia 🇨🇴, passionate about building scala
 </table>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bledxs&theme=react&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=bledxs&theme=react&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
 <p align="center">
