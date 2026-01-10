@@ -21,7 +21,7 @@
     <circle cx="12" cy="12" r="3" stroke="#1f6feb" />
   <line x1="3" x2="9" y1="12" y2="12" stroke="#1f6feb" />
   <line x1="15" x2="21" y1="12" y2="12" stroke="#1f6feb" />
-  </g>  <text x="51" y="78" font-size="14" font-weight="normal" fill="#c9d1d9" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" text-anchor="start">Total Commits</text>  <text x="480" y="78" font-size="14" font-weight="bold" fill="#58a6ff" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" text-anchor="end">366</text></g>
+  </g>  <text x="51" y="78" font-size="14" font-weight="normal" fill="#c9d1d9" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" text-anchor="start">Total Commits</text>  <text x="480" y="78" font-size="14" font-weight="bold" fill="#58a6ff" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" text-anchor="end">369</text></g>
   <g>  <g transform="translate(25, 95) scale(0.6666666666666666)">
     <circle cx="18" cy="18" r="3" stroke="#1f6feb" />
   <circle cx="6" cy="6" r="3" stroke="#1f6feb" />
