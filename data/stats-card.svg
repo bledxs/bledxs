@@ -40,6 +40,6 @@
   <circle cx="18" cy="6" r="3" stroke="#1f6feb" />
   <circle cx="6" cy="18" r="3" stroke="#1f6feb" />
   <path d="M18 9a9 9 0 0 1-9 9" stroke="#1f6feb" />
-  </g>  <text x="51" y="198" font-size="14" font-weight="normal" fill="#c9d1d9" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" text-anchor="start">Contributed To</text>  <text x="480" y="198" font-size="14" font-weight="bold" fill="#58a6ff" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" text-anchor="end">1</text></g>
+  </g>  <text x="51" y="198" font-size="14" font-weight="normal" fill="#c9d1d9" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" text-anchor="start">Contributed To</text>  <text x="480" y="198" font-size="14" font-weight="bold" fill="#58a6ff" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" text-anchor="end">0</text></g>
 
 </svg>
